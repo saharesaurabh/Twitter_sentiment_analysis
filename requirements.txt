@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+fastapi
+uvicorn
+nltk
+pyspellchecker
+contractions
+streamlit
+tensorflow
